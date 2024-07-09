@@ -19,7 +19,7 @@ import {
     const navigate = useNavigate();
   
     const handleRegister = async () => {
-      navigate('/');
+      navigate('/home');
     };
   
     return (
